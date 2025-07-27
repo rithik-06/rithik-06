@@ -36,16 +36,6 @@
 
 ---
 
-### 🚀 Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🧠 RAG Chatbot](https://github.com/rithik-06/RAG-chatbot) | Chatbot that answers from documents | LangChain, OpenAI, FAISS |
-| [⚙️ MLOps Series](https://github.com/rithik-06/mlops-series) | Daily push of MLOps learnings | Docker, GitHub Actions, MLFlow |
-| [📊 BI Dashboard](https://github.com/rithik-06/powerbi-dashboard) | Interactive dashboard using Power BI | Pandas, Power BI |
-
----
-
 ### 🌐 Let's Connect
 
 <p align="center">

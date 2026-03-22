@@ -27,7 +27,7 @@ class AIEngineer:
     def say_hi(self):
         print("Building AI systems that actually work in production!")
 
-me = AIEnginger()
+me = AIEngineer()
 me.say_hi()
 ```
 
@@ -94,24 +94,7 @@ me.say_hi()
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rithik-06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rithik-06&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" />
 </div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=rithik-06&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rithik-06&custom_title=Rithik's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&title_color=00D9FF&area=true" alt="contribution graph">
 
 ---
 

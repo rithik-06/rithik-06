@@ -110,19 +110,6 @@ me.say_hi()
 </div>
 
 ---
-
-<div align="center">
-
-### 💭 
-
-*"First, solve the problem. Then, write the code."* – John Johnson
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&fontSize=0" width="100%">
-
-</div>
-
----
-
 <div align="center">
   
 ![](https://komarev.com/ghpvc/?username=rithik-06&label=Profile%20Views&color=00D9FF&style=for-the-badge)
